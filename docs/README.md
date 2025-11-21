@@ -12,7 +12,7 @@
 - [🤔 Q&A (General) ](https://github.com/Pleos-Playground/pleos-playground-api/discussions/categories/q-a-general)  
   스토어 심사, 문서 해석 및 번역, 화면 위치, 정책 문의 등 비개발 영역의 문의를 등록할 수 있습니다.
 
-- [🧑‍💻 Q&A (Technical) ](https://github.com/Pleos-Playground/pleos-playground-api/discussions/categories/q-a-technical)  
+- [🛠️ Q&A (Technical) ](https://github.com/Pleos-Playground/pleos-playground-api/discussions/categories/q-a-technical)  
   App Market, Playground, SDK&API, Console 등 전반에 걸친 기술 문의를 등록할 수 있습니다.
 
 - [💬 FAQ (자주 묻는 질문)](https://github.com/Pleos-Playground/pleos-playground-api/discussions/categories/faq)  
