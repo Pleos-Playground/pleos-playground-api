@@ -87,5 +87,104 @@
 - 향후 문서 개선을 위한 **다양한 채널과 카테고리도 운영 예정**이니 기대해주새요.
 
 ---
-
 _이 채널은 Pleos 제품군의 개발자 경험을 높이기 위한 커뮤니티 중심 기술 지원 공간입니다. 여러분의 의견과 참여가 더 나은 제품을 만드는데 큰 힘이 됩니다._
+
+
+
+---
+
+# Pleos Developer Support Channel
+
+This space is the official technical support and community forum for developers using the Pleos Playground and related product suite (Pleos App Market Console, Pleos App Market, etc.).
+You can explore documentation, ask technical questions, review FAQs, or share improvement suggestions—all in one place.
+
+---
+
+**Main Channels**
+
+- [📢 Announcements]
+
+Updates on product operations, policy changes, and essential notices.
+
+- [🤔 Q&A (General])
+
+For non-technical inquiries including store review, document interpretation/translation, UI navigation, or general policy questions.
+
+- [🛠️ Q&A (Technical)]
+
+For technical questions related to App Market, Playground, SDK & API, Console, or integration flows.
+
+- [💬 FAQ]
+
+A curated list of frequently asked questions and answers.
+
+- [💡 Ideas / Suggestions]
+
+Share ideas on documentation improvements, feature enhancements, or UX suggestions across the product suite.
+
+- [📚 Wiki]
+
+Provides guides such as authentication flows, usage instructions, and simulation methods for each product.
+
+---
+
+##How to Submit a Question
+### 🤔 What can I ask about?
+
+- Questions regarding API usage
+- Errors encountered while using Playground features
+- Deployment flow inquiries inside the Console
+- Issues during App Market registration/review/release
+- Any other issue encountered while using Pleos products
+
+###Before submitting a question
+- Search the Q&A Discussions to check if similar questions have already been answered.
+- Use labels to filter topics more easily.
+
+---
+
+## ⚠️ Security & Privacy Notice
+
+This Discussions channel is a public forum accessible to all users. Do NOT share confidential or sensitive information under any circumstances.
+
+> Posts containing sensitive information may be removed without prior notice. Credentials included in a post may be invalidated automatically for security reasons.
+
+Prohibited content includes:
+
+- Authentication details such as `client_secret`
+- Valid access tokens or API headers
+- Personal or vehicle-identifying information (name, contact, address, license plate number, CRN, etc.)
+- Account credentials, payment information, or order details
+- Internal system addresses or sensitive operational information
+
+##Other Support Channels
+**If your question involves sensitive information, please use the following channels instead:
+
+- Developers Portal: https://pleos.ai/playground
+- Developer Support Email: partnership@pleos.ai
+
+---
+
+**Additional Information**
+###Ideas are always welcome
+
+[The 💡 Ideas / Suggestions]
+ category is open for all feedback related to documents, features, or UX.
+
+Examples include:
+- Missing or unclear explanations in documentation
+- Feature suggestions for Playground
+- Improvements in Console navigation or UI
+- Ideas to enhance developer experience in the App Market
+
+> Please focus on technical or product-related suggestions.
+Business or partnership proposals should be directed to the alternative support channels listed above.
+
+---
+
+### Contribution & Collaboration Policy
+- This repository is public, and all content is accessible to everyone.
+- You may submit questions, feedback, or suggestions through Discussions.
+- Additional channels and categories for documentation contributions will be introduced in the future.
+
+This channel is designed to enhance the developer experience across the Pleos product ecosystem. Your participation and feedback play a crucial role in building better products together.
