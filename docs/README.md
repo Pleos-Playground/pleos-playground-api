@@ -102,33 +102,33 @@ You can explore documentation, ask technical questions, review FAQs, or share im
 
 **Main Channels**
 
-- [📢 Announcements]
+- [📢 (Announcements)](https://github.com/Pleos-Playground/pleos-playground-api/discussions/categories/announcement)  
 
 Updates on product operations, policy changes, and essential notices.
 
-- [🤔 Q&A (General])
+- [🤔 Q&A (General)](https://github.com/Pleos-Playground/pleos-playground-api/discussions/categories/q-a-general) 
 
 For non-technical inquiries including store review, document interpretation/translation, UI navigation, or general policy questions.
 
-- [🛠️ Q&A (Technical)]
+- [🛠️ Q&A (Technical)](https://github.com/Pleos-Playground/pleos-playground-api/discussions/categories/q-a-technical)  
 
 For technical questions related to App Market, Playground, SDK & API, Console, or integration flows.
 
-- [💬 FAQ]
+- [💬 FAQ](https://github.com/Pleos-Playground/pleos-playground-api/discussions/categories/faq)  
 
 A curated list of frequently asked questions and answers.
 
-- [💡 Ideas / Suggestions]
+- [💡 Ideas / Suggestions](https://github.com/Pleos-Playground/pleos-playground-api/discussions/categories/ideas-suggestions)  
 
 Share ideas on documentation improvements, feature enhancements, or UX suggestions across the product suite.
 
-- [📚 Wiki]
+- [📚 Wiki](https://github.com/Pleos-Playground/pleos-playground-api/wiki)  
 
 Provides guides such as authentication flows, usage instructions, and simulation methods for each product.
 
 ---
 
-##How to Submit a Question
+## How to Submit a Question
 ### 🤔 What can I ask about?
 
 - Questions regarding API usage
@@ -137,7 +137,7 @@ Provides guides such as authentication flows, usage instructions, and simulation
 - Issues during App Market registration/review/release
 - Any other issue encountered while using Pleos products
 
-###Before submitting a question
+### Before submitting a question
 - Search the Q&A Discussions to check if similar questions have already been answered.
 - Use labels to filter topics more easily.
 
@@ -157,8 +157,8 @@ Prohibited content includes:
 - Account credentials, payment information, or order details
 - Internal system addresses or sensitive operational information
 
-##Other Support Channels
-**If your question involves sensitive information, please use the following channels instead:
+## Other Support Channels
+**If your question involves sensitive information, please use the following channels instead:**
 
 - Developers Portal: https://pleos.ai/playground
 - Developer Support Email: partnership@pleos.ai
@@ -166,9 +166,9 @@ Prohibited content includes:
 ---
 
 **Additional Information**
-###Ideas are always welcome
+### Ideas are always welcome
 
-[The 💡 Ideas / Suggestions]
+[The 💡 Ideas / Suggestions](https://github.com/Pleos-Playground/pleos-playground-api/discussions/categories/ideas-suggestions)
  category is open for all feedback related to documents, features, or UX.
 
 Examples include:
